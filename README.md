@@ -10,11 +10,16 @@ Hardware required:
 All wired up as follows:
 
 <img src=thereminimum.jpg width=500>
+(the Fritzing file is <A href=thereminimum.fzz>here</A>a>.)
 
 Soldered together, it should look something like this:
 
 <img src=thereminimum_top.jpeg width=500>
 
-Since Seeed Studio have somehow managed to cram in battery management to their tiny board, I also attached a small rechargeable battery (3.7V 100mAh 601120) and an on/off dip switch for stand-alone operation:
+Since Seeed Studio have somehow managed to cram in battery management to their tiny board, I also attached a small rechargeable battery (3.7V 100mAh 601120) and an on/off dip switch to the bottom of the board for stand-alone operation:
 
 <img src=thereminimum_bottom.jpeg width=500>
+
+A simple code to make it play is <A href=thereminimum.ino>here</a>; you will also need to download the <A href=note_frequencies.h>header file</a> that defines note frequencies.
+
+If all goes well, it should end up sounding something <A href=thereminimum.mov>like this</a>.
