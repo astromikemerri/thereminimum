@@ -3,7 +3,7 @@ A tiny digital theremin I created as a test of the Seeed XIAO thumb-sized microc
 
 Hardware required: 
 <ul>
-  <li>Seeed Studios XIAO ESP32-S3 micricintroller (or equivalent)</li>
+  <li>Seeed Studios XIAO ESP32-S3 microcontroller (or equivalent)</li>
   <li>Adafruit VL53L1X laser ranging breakout board (or equivalent)</li>
   <li>Adafruit PS1240 piezo buzzer (or equivalent)</li>
 </ul>
