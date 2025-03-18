@@ -18,7 +18,7 @@ Soldered together, it should look something like this:
 
 Since Seeed Studio have somehow managed to cram in battery management to their tiny board, I also attached a small rechargeable battery (3.7V 100mAh 601120) and an on/off dip switch to the bottom of the board for stand-alone operation:
 
-<img src=thereminimum_bottom.jpeg style="transform:rotate(90deg);" width=500>
+<img src=thereminimum_bottom.jpeg width=500>
 
 A simple code to make it play is <A href=thereminimum.ino>here</a>; you will also need to download the <A href=note_frequencies.h>header file</a> that defines note frequencies.
 
