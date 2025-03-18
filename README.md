@@ -10,3 +10,7 @@ Hardware required:
 All wired up as follows:
 
 <img src=thereminimum.jpg width=500>
+
+Soldered together, it should look something like this:
+
+<img src=thereminimum_top.jpg width=500>
