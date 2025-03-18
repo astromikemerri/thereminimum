@@ -11,6 +11,7 @@ All wired up as follows:
 
 <img src=thereminimum.jpg width=500>
 (the Fritzing file is <A href=thereminimum.fzz>here</A>.)
+<p>
 
 Soldered together, it should look something like this:
 
