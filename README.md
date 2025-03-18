@@ -13,4 +13,4 @@ All wired up as follows:
 
 Soldered together, it should look something like this:
 
-<img src=thereminimum_top.jpg width=500>
+<img src=thereminimum_top.jpeg width=500>
