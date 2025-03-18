@@ -10,7 +10,7 @@ Hardware required:
 All wired up as follows:
 
 <img src=thereminimum.jpg width=500>
-(the Fritzing file is <A href=thereminimum.fzz>here</A>a>.)
+(the Fritzing file is <A href=thereminimum.fzz>here</A>.)
 
 Soldered together, it should look something like this:
 
